@@ -1,0 +1,15 @@
+/Users/nrd/Projects/bubbleSort/bubbleSort/bin/Debug/net7.0/bubbleSort
+/Users/nrd/Projects/bubbleSort/bubbleSort/bin/Debug/net7.0/bubbleSort.deps.json
+/Users/nrd/Projects/bubbleSort/bubbleSort/bin/Debug/net7.0/bubbleSort.runtimeconfig.json
+/Users/nrd/Projects/bubbleSort/bubbleSort/bin/Debug/net7.0/bubbleSort.dll
+/Users/nrd/Projects/bubbleSort/bubbleSort/bin/Debug/net7.0/bubbleSort.pdb
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.csproj.AssemblyReference.cache
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.AssemblyInfoInputs.cache
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.AssemblyInfo.cs
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.csproj.CoreCompileInputs.cache
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.dll
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/refint/bubbleSort.dll
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.pdb
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/bubbleSort.genruntimeconfig.cache
+/Users/nrd/Projects/bubbleSort/bubbleSort/obj/Debug/net7.0/ref/bubbleSort.dll
